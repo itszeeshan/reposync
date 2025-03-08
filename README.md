@@ -12,6 +12,10 @@
 
 ---
 
+## Workflow
+
+![reposync-workflow](https://mermaid.ink/img/pako:eNpdklGTmjAQx7_KTp45R4Qq0pnO9EDFO725Kfal6EMKe5IRCBOCowW_e2PitefxlP_u77-7CduRlGdIfLIXtM5hE37dVqC-70ksqZA7eHj41v9sUIBoqwYE1rw5V2kPj12MBaYSXgU_sgzFxRgftWPBZNT-7iFI5ijTHIyGH1f77hO4ogoM_4NK34HBFYRZFxS8QlijzHl2axaalBEzXTDabF7jHuaJwY-Mgg7tPkJxHPWw-ICowA2Y65KRuj4XaOYAVkHIhLosF-cbtjCYEZEWyyTIMT3A8k3bYHZijWxgxVNaFO--pe5vUj08JfGB1XCdg1X7OyTk2MALl6ZMD8_J7IRpK_H6RNqBN_5Zd18lMT2agT-1fNL5dRLwsi5QMl6pR2waun8vsDKAEWstXpJZlak0sUiJoqQsUyvSXYktkTmWuCW-OmZUHLZkW10UR1vJY7UaxJeiRYsI3u5z4r_RolGqrTMqMWRU7Vn5L1rT6hfnd5r4HTkR3x3Zg6HjOo43HI1tx_Mscia-Yw88z_bc4Rdn4k7c8fRikT-6wHCgAqOp50yd8ciZ2OOxRTBj6o-tzX7rNb_8BUdT5Og?type=png)
+
 ## Installation
 
 ### Install Golang (If not already installed)
