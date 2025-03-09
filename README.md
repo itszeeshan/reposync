@@ -52,20 +52,6 @@ my-org/                    # Organization root
 
 This structure matches your GitLab/GitHub organization layout exactly, making it ideal for:
 
----
-
-## Advantages:
-
-RepoSync’s structure preservation eliminates the "Where’s the repo?" problem across development stages, making it **3x faster** to:
-
-1. Onboard new team members
-
-2. Rebuild environments after hardware failures
-
-3. Scale automation scripts across repositories
-
-This organizational fidelity is why tools like [Google’s Piper](https://cacm.acm.org/research/why-google-stores-billions-of-lines-of-code-in-a-single-repository/) prioritize directory hierarchy – now accessible for GitLab/GitHub users through RepoSync.
-
 ### 1. Local development mirroring
 
 ```text
@@ -253,7 +239,7 @@ reposync config # Update stored credentials
 
 ---
 
-## Workflow
+## Tool Workflow
 
 ![reposync-workflow](https://mermaid.ink/img/pako:eNpdklGTmjAQx7_KTp45R4Qq0pnO9EDFO725Kfal6EMKe5IRCBOCowW_e2PitefxlP_u77-7CduRlGdIfLIXtM5hE37dVqC-70ksqZA7eHj41v9sUIBoqwYE1rw5V2kPj12MBaYSXgU_sgzFxRgftWPBZNT-7iFI5ijTHIyGH1f77hO4ogoM_4NK34HBFYRZFxS8QlijzHl2axaalBEzXTDabF7jHuaJwY-Mgg7tPkJxHPWw-ICowA2Y65KRuj4XaOYAVkHIhLosF-cbtjCYEZEWyyTIMT3A8k3bYHZijWxgxVNaFO--pe5vUj08JfGB1XCdg1X7OyTk2MALl6ZMD8_J7IRpK_H6RNqBN_5Zd18lMT2agT-1fNL5dRLwsi5QMl6pR2waun8vsDKAEWstXpJZlak0sUiJoqQsUyvSXYktkTmWuCW-OmZUHLZkW10UR1vJY7UaxJeiRYsI3u5z4r_RolGqrTMqMWRU7Vn5L1rT6hfnd5r4HTkR3x3Zg6HjOo43HI1tx_Mscia-Yw88z_bc4Rdn4k7c8fRikT-6wHCgAqOp50yd8ciZ2OOxRTBj6o-tzX7rNb_8BUdT5Og?type=png)
 
