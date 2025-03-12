@@ -9,7 +9,7 @@
 - **HTTPS/SSH cloning** support
 - Automatic directory structure mirroring
 - Configuration wizard for easy setup
-- Skipping of existing repositories
+- Skipping of existing cloned repositories
 
 ---
 
