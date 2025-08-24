@@ -10,6 +10,7 @@ type GitLabRepository struct {
 	HTTPSURL string `json:"http_url_to_repo"`
 	SSHURL   string `json:"ssh_url_to_repo"`
 	Name     string `json:"name"`
+	Path     string `json:"path"`
 }
 
 /*
@@ -19,5 +20,6 @@ replication during repository cloning.
 */
 type GitLabSubgroup struct {
 	ID       int    `json:"id"`
+	Name     string `json:"name"`
 	FullPath string `json:"full_path"`
 }
